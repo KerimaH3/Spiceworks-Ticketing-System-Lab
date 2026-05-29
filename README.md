@@ -68,22 +68,16 @@ The project focused on the complete ticket lifecycle, including ticket creation,
 - Slow computer performance
 - User account access issues
 
-# Priority Guide
+# Ticket Lifecycle
 
-Low
-- General questions
-- Minor issues
-
-Medium
-- User productivity affected
-- Workaround available
-
-High
-- User unable to perform job duties
-
-Critical
-- Multiple users affected
-- Business operations impacted
+1. User submits support request
+2. Ticket is created in Spiceworks
+3. Ticket is categorized and prioritized
+4. Ticket is assigned to a technician
+5. Troubleshooting is performed
+6. Internal notes are documented
+7. Resolution is provided
+8. Ticket is closed
 
 ## Screenshots
 <h3>Dashboard and Ticket Resolution</h3>
@@ -94,7 +88,6 @@ Critical
 <img src="screenshots/closed-ticket.png" width="48%">
 </p>
 
-
 <h3>Software Installation Request and Printer Troubleshooting</h3>
 <body>Processed a software installation request and documented the deployment process. Diagnosed and resolved a printer connectivity issue while documenting corrective actions.</body>
 
@@ -103,8 +96,7 @@ Critical
 <img src="screenshots/printer-ticket.png" width="48%">
 </p>
 
-
-### Network Connectivity Issue
+### Network Connectivity Troubleshooting 
 
 Investigated and resolved a network connectivity problem using standard troubleshooting procedures.
 
@@ -113,5 +105,5 @@ Investigated and resolved a network connectivity problem using standard troubles
 
 ## Outcome
 
-This project improved my understanding of help desk operations and strengthened my practical skills in ticket management, troubleshooting documentation, issue prioritization, customer communication, and support workflows commonly used in IT support environments.
+Successfully simulated and resolved multiple help desk incidents including password reset requests, printer issues, software installation requests, and network connectivity problems. Demonstrated ticket creation, categorization, prioritization, troubleshooting, documentation, and ticket closure using Spiceworks Help Desk.
 
