@@ -86,8 +86,8 @@ Critical
 - Business operations impacted
 
 ## Screenshots
-<h2>Dashboard and Ticket Resolution</h2>
-<h3>Created and managed support tickets using the Spiceworks Help Desk dashboard. Verified issue resolution, updated documentation, and closed the support ticket.</h3>
+<h3>Dashboard and Ticket Resolution</h3>
+<body>Created and managed support tickets using the Spiceworks Help Desk dashboard. Verified issue resolution, updated documentation, and closed the support ticket.</body>
 
 <p align="center">
 <img src="screenshots/dashboard.png" width="48%">
@@ -95,8 +95,8 @@ Critical
 </p>
 
 
-<h2>Software Installation Request and Printer Troubleshooting</h2>
-<h3>Processed a software installation request and documented the deployment process. Diagnosed and resolved a printer connectivity issue while documenting corrective actions.</h3>
+<h3>Software Installation Request and Printer Troubleshooting</h3>
+<body>Processed a software installation request and documented the deployment process. Diagnosed and resolved a printer connectivity issue while documenting corrective actions.</body>
 
 <p align="center">
 <img src="screenshots/software-install-ticket.png" width="48%">
