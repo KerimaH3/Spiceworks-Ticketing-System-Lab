@@ -86,25 +86,23 @@ Critical
 - Business operations impacted
 
 ## Screenshots
+<h3>Dashboard and Ticket Resolution</h3>
+<h2>Created and managed support tickets using the Spiceworks Help Desk dashboard. Verified issue resolution, updated documentation, and closed the support ticket.</h2>
 
-### Help Desk Dashboard
-
-Created and managed support tickets using the Spiceworks Help Desk dashboard.
-
+<p align="center">
 <img src="screenshots/dashboard.png" width="700">
+<img src="screenshots/closed-ticket.png" width="700">
+</p>
 
 
-### Software Installation Request
+<h3>Software Installation Request and Printer Troubleshooting</h3>
+<h2>Processed a software installation request and documented the deployment process. Diagnosed and resolved a printer connectivity issue while documenting corrective actions.</h2>
 
-Processed a software installation request and documented the deployment process.
-
+<p align="center">
 <img src="screenshots/software-install-ticket.png" width="700">
-
-### Printer Troubleshooting
-
-Diagnosed and resolved a printer connectivity issue while documenting corrective actions.
-
 <img src="screenshots/printer-ticket.png" width="700">
+</p>
+
 
 ### Network Connectivity Issue
 
@@ -112,11 +110,7 @@ Investigated and resolved a network connectivity problem using standard troubles
 
 <img src="screenshots/internet-connectivity-ticket.png" width="700">
 
-### Ticket Resolution
 
-Verified issue resolution, updated documentation, and closed the support ticket.
-
-<img src="screenshots/closed-ticket.png" width="700">
 ## Outcome
 
 This project improved my understanding of help desk operations and strengthened my practical skills in ticket management, troubleshooting documentation, issue prioritization, customer communication, and support workflows commonly used in IT support environments.
