@@ -5,8 +5,8 @@
 
 # Help Desk Ticketing System Lab Using Spiceworks
 
-<img src="screenshots/dashboard.png" width="850">
-<img src="screenshots/user-creation.png" width="850">
+<img src="screenshots/ticket-creation.png" width="700">
+<img src="screenshots/user-creation.png" width="700">
 
 This project demonstrates hands-on help desk ticket management using Spiceworks. The goal of this lab was to simulate real-world IT support workflows by creating, categorizing, prioritizing, troubleshooting, documenting, and resolving support tickets in a help desk environment.
 
@@ -88,36 +88,32 @@ Critical
 
 Created and managed support tickets using the Spiceworks Help Desk dashboard.
 
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" width="700">
 
 
 ### Software Installation Request
 
 Processed a software installation request and documented the deployment process.
 
-![Software Ticket](screenshots/software-install-ticket.png)
-
+<img src="screenshots/software-install-ticket.png" width="700">
 
 ### Printer Troubleshooting
 
 Diagnosed and resolved a printer connectivity issue while documenting corrective actions.
 
-![Printer Ticket](screenshots/printer-ticket.png)
-
+<img src="screenshots/printer-ticket.pn" width="700">
 
 ### Network Connectivity Issue
 
 Investigated and resolved a network connectivity problem using standard troubleshooting procedures.
 
-![Network Ticket](screenshots/internet-connectivity-ticket.png)
-
+<img src="screenshots/internet-connectivity-ticket.png" width="700">
 
 ### Ticket Resolution
 
 Verified issue resolution, updated documentation, and closed the support ticket.
 
-![Closed Ticket](screenshots/closed-ticket.png)
-
+<img src="screenshots/closed-ticket.png" width="700">
 ## Outcome
 
 This project improved my understanding of help desk operations and strengthened my practical skills in ticket management, troubleshooting documentation, issue prioritization, customer communication, and support workflows commonly used in IT support environments.
