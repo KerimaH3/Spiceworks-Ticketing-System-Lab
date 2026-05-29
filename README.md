@@ -5,7 +5,10 @@
 
 # Help Desk Ticketing System Lab Using Spiceworks
 
-<img src="screenshots/ticket-creation.png" width="600">  <img src="screenshots/user-creation.png" width="600">
+<p align="center">
+  <img src="screenshots/ticket-creation.png" width="48%">  
+  <img src="screenshots/user-creation.png" width="48%">
+</p>
 
 
 This project demonstrates hands-on help desk ticket management using Spiceworks. The goal of this lab was to simulate real-world IT support workflows by creating, categorizing, prioritizing, troubleshooting, documenting, and resolving support tickets in a help desk environment.
