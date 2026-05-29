@@ -108,7 +108,7 @@ Critical
 
 Investigated and resolved a network connectivity problem using standard troubleshooting procedures.
 
-<img src="screenshots/internet-connectivity-ticket.png" width="700">
+<img src="screenshots/internet-connectivity-ticket.png" width="600">
 
 
 ## Outcome
